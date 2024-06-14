@@ -1,3 +1,5 @@
+![Opening Pic](https://github.com/dgardunohorneffer/Captsone-AI/blob/main/Data/heart disease stock.jpg)
+
 # Beep, Beep, Beep: Detecting Heart Disease
 
 Throughout the world, there are many people who are plagued with diseases, one in particular: cardiovascular disease. The dataset that was used in this project includes patient information, descriptions of their condition, and if the patient has heart disease. This project helps physicians detect heart disease more efficiently by using this tool. The models used in this project were Logistic Regression, Random Forest, and XG Boost, and after evaluating each model for its accuracy, error, and precision, the model that showed the best results was XG Boost. 
