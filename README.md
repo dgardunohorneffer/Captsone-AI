@@ -1,4 +1,4 @@
-![Opening Pic](https://github.com/dgardunohorneffer/Captsone-AI/blob/main/Data/heart disease stock.jpg)
+![Opening Pic](https://github.com/dgardunohorneffer/Captsone-AI/blob/main/Data/heartdiseasestock.jpg)
 
 # Beep, Beep, Beep: Detecting Heart Disease
 
