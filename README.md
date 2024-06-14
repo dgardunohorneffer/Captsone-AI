@@ -28,6 +28,8 @@ Our complete data set can be seen in: (https://www.kaggle.com/datasets/yasserh/h
 5. Modelling
 6. Evaluation
 
+For more details on our project: (https://amedeloitte-my.sharepoint.com/:p:/g/personal/racday_deloitte_com/EW346rcw__JJoD0Bzc-5CQQBXSOT7lNijxtXtuY9CjKukA?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1718301588239&web=1)
+
 ## Business Understanding and Data Understanding
 
 In the competitive healthcare sector, especially in cardiovascular care, providers aim to stand out by delivering excellent patient outcomes and innovative care management. According to World Health Organization, Cardiovascular Diseases (CVDs) are the leading cause of death globally and with early detection, patients can receive medication and counselling to prevent more symptoms and physicians can use this tool as a guide to detect the disease early on. Effective detection and management are crucial for both patient health and the success of healthcare institutions. The image below is a comparison of the leading diseases in the world and CVDs are listed at the top. 
