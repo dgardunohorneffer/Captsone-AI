@@ -12,7 +12,7 @@ In the competitive healthcare sector, especially in cardiovascular care, provide
 
 https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 
-![Graph 2](https://github.com/dgardunohorneffer/Captsone-AI/blob/main/Data/Picture1.jpeg)
+![Graph 2](https://github.com/dgardunohorneffer/Captsone-AI/blob/main/Data/Picture1.jpg)
  
 After doing a deep dive of the data, Age, Old Peak, and Maximum Heart have a high correlation to heart disease, which are factors physicians should consider when detecting heart disease for patients. 
 
