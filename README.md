@@ -12,6 +12,7 @@ In the competitive healthcare sector, especially in cardiovascular care, provide
 
 https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 
+![Graph 2](https://github.com/dgardunohorneffer/Captsone-AI/blob/main/Data/Picture1.jpeg)
  
 After doing a deep dive of the data, Age, Old Peak, and Maximum Heart have a high correlation to heart disease, which are factors physicians should consider when detecting heart disease for patients. 
 
@@ -25,19 +26,18 @@ After tuning and feature selection, ROC/AUC curves were calculated alongside a c
 Each Jupyter notebook contains the code created by each member. The final notebook merges the work of all team members and includes a brief description of the project.
 The repository is structured as follows:
 •	notebooks/:
-o	Alex_Doytchinov/: Jupyter notebook with code from Alex Doytchinov, team member 1.
-Notebook_Alex.ipynb
-o	Azi_Arezi/: Jupyter notebook with code from Azi Arezi, team member 2.
-Notebook_Azi.ipynb
-o	Daniela_Garduno/: Jupyter notebook with code from Daniela Garduno, team member 3.
-Notebook_Daniela.ipynb
-o	Hinal_Patel/: Jupyter notebook with code from Hinal Patel, team member 4.
-Notebook_Hinal.ipynb
-
-o	Final Project:  Jupyter notebook containing all the code from each individual member
-Final_notebook.ipynb
-xg_boost.pickle (Trained model, we dont need to train the model once again, the best model has been saved)
+  o	Alex_Doytchinov/: Jupyter notebook with code from Alex Doytchinov, team member 1.
+  Notebook_Alex.ipynb
+  o	Azi_Arezi/: Jupyter notebook with code from Azi Arezi, team member 2.
+  Notebook_Azi.ipynb
+  o	Daniela_Garduno/: Jupyter notebook with code from Daniela Garduno, team member 3.
+  Notebook_Daniela.ipynb
+  o	Hinal_Patel/: Jupyter notebook with code from Hinal Patel, team member 4.
+  Notebook_Hinal.ipynb
+  o	Final Project:  Jupyter notebook containing all the code from each individual member
+    Final_notebook.ipynb
+    xg_boost.pickle (Trained model, we dont need to train the model once again, the best model has been saved)
 •	data: Contains the data used in the project.
-o	Heart.csv
+  o	Heart.csv
 
 
