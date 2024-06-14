@@ -6,7 +6,7 @@ Throughout the world, there are many people who are plagued with diseases, one i
 
 In the competitive healthcare sector, especially in cardiovascular care, providers aim to stand out by delivering excellent patient outcomes and innovative care management. According to World Health Organization, Cardiovascular Diseases (CVDs) are the leading cause of death globally and with early detection, patients can receive medication and counselling to prevent more symptoms and physicians can use this tool as a guide to detect the disease early on. Effective detection and management are crucial for both patient health and the success of healthcare institutions. The image below is a comparison of the leading diseases in the world and CVDs are listed at the top. 
  
-![Graph 1](https://github.com/dgardunohorneffer/Captsone-AI/Data/download.jpeg)
+![Graph 1](https://github.com/dgardunohorneffer/Captsone-AI/blob/main/Data/download.jpeg)
 
 https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 
